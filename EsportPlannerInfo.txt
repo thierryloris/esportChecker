@@ -1,0 +1,30 @@
+{
+"id": 4996,
+"name": "EMEA Masters",
+"url": null,
+"slug": "league-of-legends-emea-masters",
+}
+{
+"id": 4743,
+"name": "LFL Division 2",
+"url": "https://division2lol.fr",
+"slug": "league-of-legends-lfl-division-2",
+}  
+{
+"id": 4407,
+"name": "LPLOL",
+"url": "https://lplol.pt/",
+"slug": "league-of-legends-lplol",
+}
+{
+"id": 4292,
+"name": "LFL",
+"url": "http://www.lollfl.com/",
+"slug": "league-of-legends-lfl",
+}
+{
+"id": 4197,
+"name": "LEC",
+"url": null,
+"slug": "league-of-legends-lec",
+}
